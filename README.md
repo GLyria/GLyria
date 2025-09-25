@@ -2,6 +2,10 @@
 
 **`Desenvolvedora FullStack`**
 
+## 🚧 Em construção...
+No momento, estou trabalhando em alguns projetos que em breve estarão disponíveis aqui.  
+Enquanto isso, fique à vontade para acompanhar as atualizações! ✨
+
 
 ### 📊 Estatísticas
 
